@@ -32,8 +32,7 @@ public class Java21featuresApplication {
 			});
 		}
 	}
-
-
+	
 	//Zensar: L1: 7th Oct, 2023
 	private static void charracterCount( String str) {
 
